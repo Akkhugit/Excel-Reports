@@ -1,4 +1,30 @@
 # Excel-Reports
+Objective: Super store wants to create annual sales report for 2022. So that, Super Store owner can understand their customers and grow more sales in next year.
+Sample Questions: 
+1. Compare the sales and orders using single chart.
+2. which month got the highest sales and orders?
+3. who purchased more - men or women in 2022?
+4. List top 5 states contributing to the sales.
+5. Relation between age and gender based on number of orders.
+6. Which channel is contributing to maximum sales?
+7. Highest selling category?,etc.
+
+
+Sample Insights:--------------------
+1. Women are more likely to buy compared to men(~65%)
+2. Maharashtra, Karnataka, Uttar Pradesh are the top 3 states(~35%)
+3. Adult Age Group (30-49 yrs) is max contributing (~50%)
+4. Amazon, Flipkart and Myntra Channels are max contributing (~80%)
+Final Conclusion to improve Super Store Sales:
+Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and uttar pradesh by showing ads/offers coupons available on Amazon, Flipkart and Myntra.
+
+
+
+
+
+
+
+
 Summary: Super Store Annual Report 2022
 The Super Store Annual Report 2022 provides a comprehensive overview of sales performance, customer demographics, and order trends across multiple channels and product categories. Key insights derived from the visualized data are summarized below:
 
