@@ -10,22 +10,6 @@ Sample Questions:
 7. Highest selling category?,etc.
 
 
-Sample Insights:--------------------
-1. Women are more likely to buy compared to men(~65%)
-2. Maharashtra, Karnataka, Uttar Pradesh are the top 3 states(~35%)
-3. Adult Age Group (30-49 yrs) is max contributing (~50%)
-4. Amazon, Flipkart and Myntra Channels are max contributing (~80%)
-
-Final Conclusion to improve Super Store Sales:
-Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and uttar pradesh by showing ads/offers coupons available on Amazon, Flipkart and Myntra.
-
-
-
-
-
-
-
-
 Summary: Super Store Annual Report 2022
 The Super Store Annual Report 2022 provides a comprehensive overview of sales performance, customer demographics, and order trends across multiple channels and product categories. Key insights derived from the visualized data are summarized below:
 
@@ -108,3 +92,12 @@ The report offers filters for categories such as Saree, Set, and Top, indicating
 
 Detailed category-level analysis would further reveal best-selling products.
 
+
+Sample Insights:--------------------
+1. Women are more likely to buy compared to men(~65%)
+2. Maharashtra, Karnataka, Uttar Pradesh are the top 3 states(~35%)
+3. Adult Age Group (30-49 yrs) is max contributing (~50%)
+4. Amazon, Flipkart and Myntra Channels are max contributing (~80%)
+
+Final Conclusion to improve Super Store Sales:
+Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and uttar pradesh by showing ads/offers coupons available on Amazon, Flipkart and Myntra.
