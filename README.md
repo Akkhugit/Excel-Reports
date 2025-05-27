@@ -28,6 +28,7 @@ Superstore data
 5. More than 90% of the products delivered.
 
 **Final Conclusion:**
+
 To improve the sales of Super Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention or we can say that Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and uttar pradesh by showing ads/offers coupons available on Amazon, Flipkart and Myntra.
 
 
